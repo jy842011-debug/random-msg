@@ -11,30 +11,12 @@
 <style>
 
 body { 
-  background-image: url("https://raw.githubusercontent.com/jy842011-debug/random-msg/main/3643882.jpg
-");
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://raw.githubusercontent.com/jy842011-debug/random-msg/main/3643882.jpg');
   background-size: cover;
-  background-position
-
-h1 {
-
-  font-size: 3em;
-
-  color: #fff;
-
-  text-shadow: 3px 3px 6px rgba(0,0,0,0.5);
-
-  animation: fadeIn 1.5s ease-out, glow 2s ease-in-out infinite alternate;
-
-  margin: 0;
-
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
-
-@keyframes gradient { 0% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } 100% { background-position: 0% 50%; } }
-
-@keyframes fadeIn { from { opacity: 0; transform: scale(0.8) translateY(30px); } to { opacity: 1; transform: scale(1) translateY(0); } }
-
-@keyframes glow { from { text-shadow: 3px 3px 6px rgba(0,0,0,0.5); } to { text-shadow: 0 0 20px #fff, 3px 3px 6px rgba(0,0,0,0.5); } }
 
 </style>
 
