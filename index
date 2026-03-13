@@ -11,7 +11,7 @@
 <style>
 
 body { 
-  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://raw.githubusercontent.com/jy842011-debug/random-msg/main/3643882.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://raw.githubusercontent.com/jy842011-debug/random-msg/refs/heads/main/images/3643882.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
